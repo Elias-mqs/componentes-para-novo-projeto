@@ -1,5 +1,5 @@
 import styles from "../styles/BotaoSidebar.module.css"
-import { Button, ButtonGroup } from '@chakra-ui/react'
+import { Button, ButtonGroup, Stack, HStack, VStack } from '@chakra-ui/react'
 
 
 export default function BotaoSidebar() {
